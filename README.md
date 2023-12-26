@@ -1,1 +1,2 @@
-# YaLichey_Project
+Жучков
+Исраелян
